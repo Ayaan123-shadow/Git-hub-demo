@@ -1,3 +1,3 @@
 # Git-hub-demo
 This is my first git repository.
-Autjor- Mohd Ayaan
+Author- Mohd Ayaan
